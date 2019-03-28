@@ -11,7 +11,7 @@ The Dapp simply resemble basic lottery functionality in decentralized way so peo
 # Installation
 
 <br>
-
+<h3><b>git clone https://github.com/mihir-ms/Lottery-DApp.git<b></h3>
 <h3><b>cd Lottery-DApp<b></h3>
 
 <h3><b>npm install<b></h3>
@@ -20,10 +20,11 @@ The Dapp simply resemble basic lottery functionality in decentralized way so peo
 <br>
   
 # Additional-Prequisite
-<h4> Create a atleast 3 test account on Rinkebey Test Network in Metamask and have some ether.</h4>
+<h4> Create a atleast 3 test account on Ropsten Test Network in Metamask and have some ether.</h4>
+<h4>You can get test ether from https://faucet.ropsten.be/</h4>
 
 # Basic Functionality
-<h4>Once the npm start is running a server begins at port 3006 in your localhost and you will have around 4 functionality buttons</h4>
+<h4>Once the npm start is running a server begins at port 3000 in your localhost and you will have around 4 functionality buttons</h4>
 <h4>Any User can view the contract owner address from Read Owner Address button</h4>
 <h4>Any User can participate but the charge of participation is 0.005 ether needed to be inserted in textbox and then can participate</h4>
 <h4>Only Owner can conduct Lottery and selected winner will be able to claim money.</h4>
