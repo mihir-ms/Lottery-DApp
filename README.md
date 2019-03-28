@@ -12,7 +12,7 @@ The Dapp simply resemble basic lottery functionality in decentralized way so peo
 
 <br>
 
-<h3><b>cd Lottery-dapp<b></h3>
+<h3><b>cd Lottery-DApp<b></h3>
 
 <h3><b>npm install<b></h3>
 
