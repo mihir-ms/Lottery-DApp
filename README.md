@@ -11,7 +11,6 @@ The Dapp simply resemble basic lottery functionality in decentralized way so peo
 # Installation
 
 <br>
-<h3><b>git clone https://github.com/priyamshah112/Lottery-dapp<b></h3>
 
 <h3><b>cd Lottery-dapp<b></h3>
 
