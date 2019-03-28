@@ -1,4 +1,4 @@
-# Lottery-dapp
+# Lottery-DApp
 
 <h3>
 The Lottery DApp has its solidity contract with functionality such as user can participate, A Owner can commence LuckyDraw and a selected participant can claim his money.
